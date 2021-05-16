@@ -1,4 +1,4 @@
-# stAdv-PyTorch
+# stAdv: Spatially Transformed Adversarial Attack (PyTorch)
 This Repository contains the PyTorch Implementation for the ICLR'18 paper, "Spatially Transformed Adversarial Examples" (https://arxiv.org/abs/1801.02612). The referred code with TensorFlow from the ICML'18 Workshop, "Robustness of Rotation-Equivariant Networks to Adversarial Perturbations" (https://arxiv.org/abs/1802.06627) at https://github.com/rakutentech/stAdv.
 
 ### Sample Results
